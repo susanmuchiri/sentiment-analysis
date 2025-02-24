@@ -35,6 +35,7 @@ The dataset used for this analysis was sourced from the CrowdFlower dataset avai
 
                                  FINDINGS
 
+
  - Based on the analysis of customer sentiment on Twitter, it was found that Google and Apple brands had the highest number of customers expressing a neutral emotion, followed by a positive emotion. Negative sentiments were least common for both brands.
 - It was observed that the SXSW event had a significant influence on customer sentiment and received the highest number of mentions. The release of new products by Apple and Google coincided with an increase in positive sentiment expressed on Twitter.
 - The sentiment analysis of tweets revealed a notable amount of negativity towards the design of the iPad device. The Apple Store stood out as a feature that garnered notable positivity among users. Apple's iPhone and iPad devices received the highest positive sentiment among consumers, reinforcing their esteemed reputation within the Apple brand lineup. Among Google products and services, Android devices and Google Maps received the most mentions. 
