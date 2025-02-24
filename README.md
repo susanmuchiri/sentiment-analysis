@@ -1,6 +1,6 @@
-ENTIMENT ANALYSIS PROJECT
-                          NAME:SUSAN WANJIRU 
-                               PHASE 4
+                                                                              SENTIMENT ANALYSIS PROJECT
+                                                                              NAME:SUSAN WANJIRU 
+                                                                                  PHASE 4
 
 
                        BUSINESS UNDERSTANDING
